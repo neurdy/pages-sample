@@ -28,7 +28,7 @@ twitter_username: neurdy
 github_username:  neurdy
 
 # Build settings
-theme: architect
+theme: jekyll-theme-architect
 #can change theme; original theme was minima - which is designed for blogging
 plugins:
   - jekyll-feed
