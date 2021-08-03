@@ -29,6 +29,7 @@ github_username:  neurdy
 
 # Build settings
 theme: minima
+#can change theme; original theme was minima - which is designed for blogging
 plugins:
   - jekyll-feed
 
